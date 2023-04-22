@@ -3,3 +3,9 @@ public void logowanie() {
      System.out.println("Podaj hasło");
      System.out.println("Kliknij na przycisk zaloguj");
 }
+
+public void logowanieGoogle() {
+     System.out.println("Podaj email gmail);
+     System.out.println("Podaj hasło");
+     System.out.println("Kliknij na przycisk zaloguj");
+}
